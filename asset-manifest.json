@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SampleBIVisuals/static/css/main.d3a3288b.css",
+    "main.css": "/SampleBIVisuals/static/css/main.3c4f295f.css",
     "main.js": "/SampleBIVisuals/static/js/main.f06b74de.js",
     "static/js/787.d3befce1.chunk.js": "/SampleBIVisuals/static/js/787.d3befce1.chunk.js",
     "static/media/Visual3.jpg": "/SampleBIVisuals/static/media/Visual3.685d8e4d53b022460852.jpg",
@@ -14,12 +14,12 @@
     "static/media/Visual7.jpg": "/SampleBIVisuals/static/media/Visual7.3cc7e3650f6d6c5019e7.jpg",
     "static/media/Visual6.jpg": "/SampleBIVisuals/static/media/Visual6.8958b26c486ac78af57c.jpg",
     "index.html": "/SampleBIVisuals/index.html",
-    "main.d3a3288b.css.map": "/SampleBIVisuals/static/css/main.d3a3288b.css.map",
+    "main.3c4f295f.css.map": "/SampleBIVisuals/static/css/main.3c4f295f.css.map",
     "main.f06b74de.js.map": "/SampleBIVisuals/static/js/main.f06b74de.js.map",
     "787.d3befce1.chunk.js.map": "/SampleBIVisuals/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3a3288b.css",
+    "static/css/main.3c4f295f.css",
     "static/js/main.f06b74de.js"
   ]
 }
