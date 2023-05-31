@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SampleBIVisuals/static/css/main.d3a3288b.css",
+    "main.js": "/SampleBIVisuals/static/js/main.f06b74de.js",
+    "static/js/787.d3befce1.chunk.js": "/SampleBIVisuals/static/js/787.d3befce1.chunk.js",
+    "static/media/Visual3.jpg": "/SampleBIVisuals/static/media/Visual3.685d8e4d53b022460852.jpg",
+    "static/media/Visual5.jpg": "/SampleBIVisuals/static/media/Visual5.7ef6a4ce3bbc0f11c67b.jpg",
+    "static/media/Visual4.jpg": "/SampleBIVisuals/static/media/Visual4.9293d8560cc8ba4f5bd3.jpg",
+    "static/media/Visual10.jpg": "/SampleBIVisuals/static/media/Visual10.c8065d95655e7347888d.jpg",
+    "static/media/Visual2.jpg": "/SampleBIVisuals/static/media/Visual2.eebfc149bf5be8e8c9cb.jpg",
+    "static/media/Visual8.jpg": "/SampleBIVisuals/static/media/Visual8.93ae1071edd974390d3a.jpg",
+    "static/media/Visual1.jpg": "/SampleBIVisuals/static/media/Visual1.298383245d9bc098738e.jpg",
+    "static/media/Visual9.jpg": "/SampleBIVisuals/static/media/Visual9.74e90bb2e0eb73456024.jpg",
+    "static/media/Visual7.jpg": "/SampleBIVisuals/static/media/Visual7.3cc7e3650f6d6c5019e7.jpg",
+    "static/media/Visual6.jpg": "/SampleBIVisuals/static/media/Visual6.8958b26c486ac78af57c.jpg",
+    "index.html": "/SampleBIVisuals/index.html",
+    "main.d3a3288b.css.map": "/SampleBIVisuals/static/css/main.d3a3288b.css.map",
+    "main.f06b74de.js.map": "/SampleBIVisuals/static/js/main.f06b74de.js.map",
+    "787.d3befce1.chunk.js.map": "/SampleBIVisuals/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a3288b.css",
+    "static/js/main.f06b74de.js"
+  ]
+}
